@@ -12,7 +12,7 @@ The following types of Intersight HyperFlex policies are automatically created:
 6. Local Credential Policy (Security)
 
 ## Use Cases:
-A modified version of the script in this repository is a part of the automation used to support and enable the following Cisco Data Center product demonstrations on Cisco dCloud which debuted at Cisco Live 2020 in Barcelona. These demo are now publicly available on Cisco dCloud in the RTP (US East) datacenter:
+A modified version of the script in this repository is a part of the automation used to support and enable the following Cisco Data Center product demonstrations on Cisco dCloud which debuted at Cisco Live 2020 in Barcelona. These demos are now publicly available on Cisco dCloud in the RTP (US East) datacenter:
 
 1. [_Cisco HyperFlex Edge 4.0 with Intersight v1 (All Flash, 2-Node)_](https://dcloud2-rtp.cisco.com/content/demo/669216)
 2. [_Cisco HyperFlex Edge 4.0 with Intersight v1 (Hybrid, 2-Node)_](https://dcloud2-rtp.cisco.com/content/demo/669217)

@@ -1,8 +1,8 @@
 # HyperFlex Edge Policy Maker for Cisco Intersight (dCloud)
 
-The HyperFlex Edge Policy Maker script automates creation of Intersight HyperFlex policies in Cisco Intersight that can be used to deploy a Cisco HyperFlex Edge cluster.
+The HyperFlex Edge Policy Maker automates creation of HyperFlex policies in Cisco Intersight that can be used to deploy a Cisco HyperFlex Edge cluster.
 
-The following types of Intersight HyperFlex policies are automatically created:
+The following types of HyperFlex policies are automatically created:
 
 1. Cluster Network Configuration Policy
 2. Node Configuration Policy (IP and Hostname)
